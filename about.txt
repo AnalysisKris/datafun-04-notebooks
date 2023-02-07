@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome!
+
+ It's 2023-02-07 at 10:47 AM
+
+ This file is running on:    posix Darwin 22.2.0
+ 
+ The Python version is:      3.11.1
+ 
+ The Python interpreter is at:
+ /Users/kristenfinley/Documents/datafun-04-notebooks/myenv/bin/python
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: base
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ /Users/kristenfinley/Documents/datafun-04-notebooks/myenv
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ /Users/kristenfinley/Documents/datafun-04-notebooks
+ 
+ The absolute path to the data directory is:
+
+ /Users/kristenfinley/Documents/datafun-04-notebooks/
+ 
+ The absolute path to this source directory is:
+
+ /Users/kristenfinley/Documents/datafun-04-notebooks
+ 
+ The absolute path to this file is:
+
+ /Users/kristenfinley/Documents/datafun-04-notebooks/about.py
+ 
+==============================================================
+==============================================================
+
